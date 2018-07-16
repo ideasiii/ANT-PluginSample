@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Thu Jul 05 14:49:58 CST 2018
-0.baseType=DIRECTORY
-0.base=D\:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\assets\\debug
-0.path=WorkoutRepeatSteps.fit
-0.set=ASSET
-count=1
