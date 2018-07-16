@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/source/source/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "/source/source/app/src/main/res/values-v11/styles.xml",
+                    "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "8",
                         "startColumns": "4",
-                        "startOffsets": "238",
+                        "startOffsets": "246",
                         "endLines": "10",
                         "endColumns": "12",
-                        "endOffsets": "370"
+                        "endOffsets": "380"
                     },
                     "to": {
                         "startLines": "2",

@@ -1,162 +1,162 @@
 [
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_geocache_reqauthtoken.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_geocache_reqauthtoken.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_weightscale_user_profile.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_weightscale_user_profile.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_async_scan.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_async_scan.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_bloodpressure.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_bloodpressure.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_file_id.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_file_id.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_session.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_session.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_weightscale_configuserprofile.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_weightscale_configuserprofile.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_bike_cadence.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_bike_cadence.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_fitnessequipment.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_fitnessequipment.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_bloodpressure_user_profile.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_bloodpressure_user_profile.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_bloodpressure.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_bloodpressure.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_geocache_reqauthtoken.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_geocache_reqauthtoken.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_audio_remote_control.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_audio_remote_control.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_activity.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_activity.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_weightscale_user_profile.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_weightscale_user_profile.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_stride_sdm.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_stride_sdm.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_generic_remote_control.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_generic_remote_control.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_watchdata.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_watchdata.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_multidevice_searchresult.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_multidevice_searchresult.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_bike_speeddistance.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_bike_speeddistance.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fitnessequipment.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_fitnessequipment.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_device_list.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_device_list.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_geocache_programdevice.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_geocache_programdevice.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_multidevice_filter.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_multidevice_filter.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_remote_control.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_video_remote_control.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_multidevice_scan.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_multidevice_scan.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_heart_rate.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_heart_rate.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_fe_settings.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_fe_settings.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_list.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_device_list.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_weightscale.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_weightscale.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_weightscale.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_weightscale.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_controllable_device.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_controllable_device.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bike_cadence.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_bike_cadence.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/source/source/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_geocache_deviceinfo.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_geocache_deviceinfo.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_geocache_programdevice.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_geocache_programdevice.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_environment.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_environment.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_dashboard.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_dashboard.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_geocache.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_geocache.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bike_speeddistance.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_bike_speeddistance.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_device_info.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_device_info.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multidevice_filter.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_multidevice_filter.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_activity.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_activity.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bloodpressure.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_bloodpressure.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_bike_power.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_bike_power.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_device_info.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_device_info.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_heart_rate.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_heart_rate.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_file_id.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_file_id.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
-        "source": "/source/source/app/src/main/res/drawable-ldpi/ic_launcher.png"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_watchdata.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_watchdata.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/source/source/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_heart_rate.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\menu\\activity_heart_rate.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_session.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_session.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_controllable_device.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_controllable_device.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_progresswaiter.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_progresswaiter.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audio_remote_control.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_audio_remote_control.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/menu_activity_heart_rate.xml.flat",
-        "source": "/source/source/app/src/main/res/menu/activity_heart_rate.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multidevice_scan.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_multidevice_scan.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/source/source/app/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_progresswaiter.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_progresswaiter.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_weightscale.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_weightscale.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bike_power.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_bike_power.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_bloodpressure.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_bloodpressure.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stride_sdm.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_stride_sdm.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_video_remote_control.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_video_remote_control.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fe_settings.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_fe_settings.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_bloodpressure_user_profile.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_bloodpressure_user_profile.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_weightscale_configuserprofile.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\dialog_weightscale_configuserprofile.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_dialog_geocache_deviceinfo.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/dialog_geocache_deviceinfo.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_layout_multidevice_searchresult.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/layout_multidevice_searchresult.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_weightscale.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\layout_weightscale.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_environment.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_environment.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_geocache.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_geocache.xml"
     },
     {
-        "merged": "/source/source/app/build/intermediates/res/merged/debug/layout_activity_generic_remote_control.xml.flat",
-        "source": "/source/source/app/src/main/res/layout/activity_generic_remote_control.xml"
+        "merged": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_async_scan.xml.flat",
+        "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\layout\\activity_async_scan.xml"
     }
 ]

@@ -1,274 +1,272 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
-MERGED from [com.android.support:support-v4:21.0.3] /root/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/011ccbce3f90287c78ed151ed8137437/AndroidManifest.xml:14:4-17:12
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:11:1-138:12
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\150737\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\b215d801acf9982fa4009b232339e3fd\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:1-141:12
 	package
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:12:5-48
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:12:11-54
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:14:5-32
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:14:11-38
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:11:11-69
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:11:11-69
 	android:versionCode
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:13:5-33
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:13:11-39
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from /source/source/app/src/main/AndroidManifest.xml:16:5-18:41
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:16:5-18:41
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:16:5-18:41
-MERGED from [com.android.support:support-v4:21.0.3] /root/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/011ccbce3f90287c78ed151ed8137437/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] /root/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/011ccbce3f90287c78ed151ed8137437/AndroidManifest.xml:15:5-42
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:16:5-18:41
-INJECTED from /source/source/app/src/main/AndroidManifest.xml:16:5-18:41
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:16:5-18:40
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:16:5-18:40
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:16:5-18:40
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\150737\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\b215d801acf9982fa4009b232339e3fd\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\150737\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\b215d801acf9982fa4009b232339e3fd\AndroidManifest.xml:15:5-42
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:16:5-18:40
+INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:16:5-18:40
 	android:targetSdkVersion
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:18:9-38
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:18:9-38
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:17:9-34
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
-		INJECTED from /source/source/app/src/main/AndroidManifest.xml
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:17:9-34
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:21:22-76
 application
-ADDED from /source/source/app/src/main/AndroidManifest.xml:20:5-136:19
-MERGED from [com.android.support:support-v4:21.0.3] /root/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/011ccbce3f90287c78ed151ed8137437/AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] /root/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/011ccbce3f90287c78ed151ed8137437/AndroidManifest.xml:16:5-19
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:23:5-139:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\150737\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\b215d801acf9982fa4009b232339e3fd\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\150737\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\b215d801acf9982fa4009b232339e3fd\AndroidManifest.xml:16:5-19
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:26:9-41
 	android:icon
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:22:9-45
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:25:9-45
 	android:allowBackup
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:24:9-35
 	android:theme
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:24:9-40
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:27:9-40
 activity#com.dsi.ant.antplus.pluginsampler.Activity_Dashboard
-ADDED from /source/source/app/src/main/AndroidManifest.xml:25:9-33:20
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:28:9-32:20
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:27:13-45
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:30:13-45
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:26:13-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /source/source/app/src/main/AndroidManifest.xml:28:13-32:29
-action#android.intent.action.MAIN
-ADDED from /source/source/app/src/main/AndroidManifest.xml:29:17-69
-	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:29:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /source/source/app/src/main/AndroidManifest.xml:31:17-77
-	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:29:13-47
 activity#com.dsi.ant.antplus.pluginsampler.heartrate.Activity_SearchUiHeartRateSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:34:9-38:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:33:9-42:20
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:37:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:37:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:36:13-54
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:36:13-54
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:38:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:35:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:35:13-105
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:34:13-105
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:40:27-74
 activity#com.dsi.ant.antplus.pluginsampler.heartrate.Activity_AsyncScanHeartRateSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:39:9-43:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:43:9-49:20
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:42:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:47:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:41:13-52
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:46:13-52
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:43:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:45:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:40:13-106
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:44:13-106
 activity#com.dsi.ant.antplus.pluginsampler.Activity_BikeCadenceSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:44:9-48:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:50:9-54:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:47:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:54:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:46:13-56
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:53:13-56
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:48:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:52:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:45:13-56
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:51:13-56
 activity#com.dsi.ant.antplus.pluginsampler.Activity_BikeSpeedDistanceSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:49:9-53:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:55:9-59:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:52:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:59:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:51:13-67
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:58:13-67
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:53:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:57:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:50:13-62
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:56:13-62
 activity#com.dsi.ant.antplus.pluginsampler.Activity_EnvironmentSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:54:9-58:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:60:9-64:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:57:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:64:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:56:13-55
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:63:13-55
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:58:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:62:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:55:13-89
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:61:13-89
 activity#com.dsi.ant.antplus.pluginsampler.geocache.Activity_GeoScanList
-ADDED from /source/source/app/src/main/AndroidManifest.xml:59:9-63:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:65:9-69:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:62:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:69:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:61:13-52
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:68:13-52
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:63:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:67:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:60:13-91
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:66:13-91
 activity#com.dsi.ant.antplus.pluginsampler.Activity_StrideSdmSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:64:9-68:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:70:9-74:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:67:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:74:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:66:13-54
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:73:13-54
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:68:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:72:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:65:13-54
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:71:13-54
 activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_AudioControllableDeviceSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:69:9-73:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:75:9-79:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:73:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:79:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:72:13-69
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:78:13-69
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:71:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:77:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:70:13-110
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:76:13-110
 activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_AudioRemoteControlSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:74:9-78:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:80:9-84:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:78:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:84:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:77:13-64
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:83:13-64
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:76:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:82:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:75:13-105
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:81:13-105
 activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_VideoControllableDeviceSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:79:9-83:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:85:9-89:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:83:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:89:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:82:13-69
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:88:13-69
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:81:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:87:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:80:13-110
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:86:13-110
 activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_VideoRemoteControlSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:84:9-88:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:90:9-94:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:88:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:94:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:87:13-64
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:93:13-64
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:86:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:92:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:85:13-105
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:91:13-105
 activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_GenericControllableDeviceSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:89:9-93:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:95:9-99:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:93:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:99:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:92:13-71
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:98:13-71
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:91:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:97:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:90:13-112
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:96:13-112
 activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_GenericRemoteControlSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:94:9-98:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:100:9-104:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:98:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:104:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:97:13-66
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:103:13-66
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:96:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:102:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:95:13-107
-activity#com.dsi.ant.antplus.pluginsampler.controls.Activity_MultiRemoteControlSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:99:9-103:52
-	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:103:13-49
-	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:102:13-64
-	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:101:13-48
-	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:100:13-105
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:101:13-107
 activity#com.dsi.ant.antplus.pluginsampler.weightscale.Activity_WeightScaleSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:104:9-108:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:105:9-109:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:107:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:109:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:106:13-56
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:108:13-56
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:108:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:107:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:105:13-101
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:106:13-101
 activity#com.dsi.ant.antplus.pluginsampler.fitnessequipment.Activity_FitnessEquipmentSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:109:9-113:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:110:9-114:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:112:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:114:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:111:13-61
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:113:13-61
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:113:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:112:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:110:13-111
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:111:13-111
 activity#com.dsi.ant.antplus.pluginsampler.bloodpressure.Activity_BloodPressureSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:114:9-118:51
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:115:9-119:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:118:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:119:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:116:13-58
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:118:13-58
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:117:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:117:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:115:13-105
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:116:13-105
 activity#com.dsi.ant.antplus.pluginsampler.Activity_BikePowerSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:119:9-122:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:120:9-124:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:121:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:124:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:120:13-54
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:123:13-54
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:122:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:122:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:119:19-93
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:121:13-87
 activity#com.dsi.ant.antplus.pluginsampler.watchdownloader.Activity_WatchScanList
-ADDED from /source/source/app/src/main/AndroidManifest.xml:123:9-126:50
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:125:9-129:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:125:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:129:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:124:13-60
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:128:13-60
 	android:configChanges
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:126:13-48
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:127:13-48
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:123:19-106
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:126:13-100
 activity#com.dsi.ant.antplus.pluginsampler.multidevicesearch.Activity_MultiDeviceFilter
-ADDED from /source/source/app/src/main/AndroidManifest.xml:127:9-130:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:130:9-133:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:130:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:133:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:129:13-63
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:132:13-63
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:128:13-106
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:131:13-106
 activity#com.dsi.ant.antplus.pluginsampler.multidevicesearch.Activity_MultiDeviceSearchSampler
-ADDED from /source/source/app/src/main/AndroidManifest.xml:131:9-134:52
+ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:134:9-137:51
 	android:screenOrientation
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:134:13-49
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:137:13-49
 	android:label
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:133:13-63
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:136:13-63
 	android:name
-		ADDED from /source/source/app/src/main/AndroidManifest.xml:132:13-113
+		ADDED from D:\Github\ANT-PluginSample\app\src\main\AndroidManifest.xml:135:13-113

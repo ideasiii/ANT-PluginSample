@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/source/source/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "D:\\Github\\ANT-PluginSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/source/source/app/src/main/res/values/strings.xml",
+                    "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "15,12,36,32,35,33,30,34,13,14,31",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "527,338,1454,1169,1372,1247,1027,1317,395,451,1098",
+                        "startOffsets": "542,350,1490,1201,1407,1280,1057,1351,408,465,1129",
                         "endLines": "28,12,36,32,35,33,30,34,13,14,31",
                         "endColumns": "19,56,45,77,81,69,70,54,55,75,70",
-                        "endOffsets": "1021,390,1495,1242,1449,1312,1093,1367,446,522,1164"
+                        "endOffsets": "1049,402,1531,1274,1484,1345,1123,1401,459,536,1195"
                     },
                     "to": {
                         "startLines": "2,16,17,18,19,20,21,22,23,24,25",
@@ -23,14 +23,14 @@
                     }
                 },
                 {
-                    "source": "/source/source/app/src/main/res/values/styles.xml",
+                    "source": "D:\\Github\\ANT-PluginSample\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "8,17",
                         "startColumns": "4,4",
-                        "startOffsets": "247,571",
+                        "startOffsets": "255,588",
                         "endLines": "14,19",
                         "endColumns": "12,12",
-                        "endOffsets": "533,726"
+                        "endOffsets": "547,745"
                     },
                     "to": {
                         "startLines": "26,33",

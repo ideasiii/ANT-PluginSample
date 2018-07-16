@@ -16,6 +16,9 @@ All rights reserved.
         android:minSdkVersion="7"
         android:targetSdkVersion="16" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:debuggable="true"
@@ -26,6 +29,12 @@ All rights reserved.
         <activity
             android:name="com.dsi.ant.antplus.pluginsampler.Activity_Dashboard"
             android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.dsi.ant.antplus.pluginsampler.heartrate.Activity_SearchUiHeartRateSampler"
+            android:configChanges="orientation"
+            android:label="Heart Rate Plugin Sampler"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -33,15 +42,11 @@ All rights reserved.
             </intent-filter>
         </activity>
         <activity
-            android:name="com.dsi.ant.antplus.pluginsampler.heartrate.Activity_SearchUiHeartRateSampler"
-            android:configChanges="orientation"
-            android:label="Heart Rate Plugin Sampler"
-            android:screenOrientation="portrait" />
-        <activity
             android:name="com.dsi.ant.antplus.pluginsampler.heartrate.Activity_AsyncScanHeartRateSampler"
             android:configChanges="orientation"
             android:label="Async Scan Demo Sampler"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait" >
+        </activity>
         <activity
             android:name="com.dsi.ant.antplus.pluginsampler.Activity_BikeCadenceSampler"
             android:configChanges="orientation"
@@ -96,11 +101,6 @@ All rights reserved.
             android:name="com.dsi.ant.antplus.pluginsampler.controls.Activity_GenericRemoteControlSampler"
             android:configChanges="orientation"
             android:label="Generic Remote Control Plugin Sampler"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.dsi.ant.antplus.pluginsampler.controls.Activity_MultiRemoteControlSampler"
-            android:configChanges="orientation"
-            android:label="Multi Remote Control Plugin Sampler"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.dsi.ant.antplus.pluginsampler.weightscale.Activity_WeightScaleSampler"

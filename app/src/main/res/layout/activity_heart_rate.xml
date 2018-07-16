@@ -412,6 +412,14 @@ All rights reserved.
 
     </ScrollView>
 
-    
+    <Button
+        android:id="@+id/button_active"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="13dp"
+        android:text="運動開始"/>
+
 
 </RelativeLayout>
